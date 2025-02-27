@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Estudar",
+        "descricao": "Estrutura de dados",
+        "data": "2025-02-21",
+        "status": "Em Andamento"
+    },
+    {
+        "nome": "Teste",
+        "descricao": "testedescricao",
+        "data": "2025-02-13",
+        "status": "Pendente"
+    },
+    {
+        "nome": "Teste2",
+        "descricao": "Teste2Descri\u00e7\u00e3o",
+        "data": "1969-12-12",
+        "status": "Conclu\u00eddo"
+    },
+    {
+        "nome": "teste3",
+        "descricao": "teste3",
+        "data": "2025-02-22",
+        "status": "Conclu\u00eddo"
+    }
+]
